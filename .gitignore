@@ -3,4 +3,7 @@ node_modules
 secrets/
 .env
 .env.*
+public/temp/*
+!public/temp/.gitkeep
+
 
